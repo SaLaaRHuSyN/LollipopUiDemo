@@ -1,0 +1,10 @@
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\bin\Debug\LollipopUiDemo.exe.config
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\bin\Debug\LollipopUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\bin\Debug\LollipopUiDemo.pdb
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\bin\Debug\LollipoUi.dll
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.csprojResolveAssemblyReference.cache
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.Form1.resources
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.Properties.Resources.resources
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.csproj.GenerateResource.Cache
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.exe
+c:\users\ploto\documents\visual studio 2015\Projects\LollipopUiDemo\LollipopUiDemo\obj\Debug\LollipopUiDemo.pdb
